@@ -11,3 +11,21 @@ Fillit is not about recoding Tetris, even if it’s still a variant of this game
 Obviously, your main goal is to find the smallest square in the minimal amount of time, despite an exponentially growing number of possibilities each time a piece is added.
 
 You should think carefully about how you will structure your data and how to solve this problem, if you want your program answers before the next millenium.
+
+## Compile
+Use ```bash make``` to compile. The executable name will be fillit.
+
+## Usage
+./fillit [file]
+
+Example:
+
+~ ./fillit fillit_sample
+
+.AABB..
+AACCB..
+.CC.BDD
+.EE.DD.
+EEFFGG.
+.FFGGHH
+....HH.
