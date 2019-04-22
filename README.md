@@ -13,10 +13,10 @@ Obviously, your main goal is to find the smallest square in the minimal amount o
 You should think carefully about how you will structure your data and how to solve this problem, if you want your program answers before the next millenium.
 
 ## Compile
-Use ```make``` to compile. The executable name will be fillit.
+Use ```make``` to compile. The executable name will be ```fillit```.
 
 ## Usage
-./fillit [file]
+```./fillit [file]```
 
 Example:
 
