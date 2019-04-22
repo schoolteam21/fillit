@@ -17,15 +17,3 @@ Use ```make``` to compile. The executable name will be ```fillit```.
 
 ## Usage
 ```./fillit [file]```
-
-Example:
-
-~ ./fillit fillit_sample
-
-.AABB..
-AACCB..
-.CC.BDD
-.EE.DD.
-EEFFGG.
-.FFGGHH
-....HH.
